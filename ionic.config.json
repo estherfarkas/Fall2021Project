@@ -1,0 +1,7 @@
+{
+  "name": "Cisc5001App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
